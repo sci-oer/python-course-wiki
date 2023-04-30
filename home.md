@@ -12,7 +12,7 @@ This OER resource contains information and activities that will help you learn t
 #### Lists
  1. [Using Lists](/lists)
  1. [Intro to Lists Mini Lecture](http://localhost:8000/lectures/lists)
- 1. [List tutorial](http://localhost:8888/lab/tree/tutorials/lists/lists.ipynb)
+ 1. [List tutorial](http://localhost:8888/lab/tree/tutorials/lists.ipynb)
  1. [Practice with Lists](/practice/lists)
 ## Lecture Index
  - [Lecture Index](http://localhost:8000/lectures/)

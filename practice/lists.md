@@ -42,8 +42,8 @@ You can use the `copy()` method to create a copy of a list. For example, `new_li
 
 1. Write a Python program that takes in a list of numbers from the user, and then prints out the largest and smallest numbers in the list. For example, if the user enters the numbers [5, 10, 2, 8, 3], the program should output "Largest number: 10" and "Smallest number: 2".
 
-A solution to this practice problem can be found on the file system of the docker container at: `/course/practiceProblems/userEntryLists`
+A solution to this practice problem can be found on the file system of the docker container at: `/course/practiceProblems/lists/userEntryLists`
 
 2. Write a Python program that generates a list of random numbers between 1 and 100, and then prints out the average, median, and mode of the list. For example, if the generated list is [20, 30, 40, 50, 60, 70, 80, 90], the program should output "Average: 55.0", "Median: 55.0", and "Mode: None". (Note that in this case, there is no mode since each value appears only once in the list.)
 
-A solution to this practice problem can be found on the file system of the docker container at: `/course/practiceProblems/randomNumberLists`
+A solution to this practice problem can be found on the file system of the docker container at: `/course/practiceProblems/lists/randomNumberLists`
