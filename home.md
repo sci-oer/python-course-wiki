@@ -2,19 +2,18 @@ This OER resource contains information and activities that will help you learn t
 
 # Tabs here{.tabset}
 ## Suggested Study Path
-### Tabs here{.tabset}
 #### Introduction
- - [Introduction to Python](/Introduction)
- - [Installing Python](/Installation)
+ 1. [Introduction to Python](/Introduction)
+ 1. [Installing Python](/Installation)
  - [Python Language Documentation](http://localhost:8000/python-3.8.10-docs-html/)
 #### Basics
- - [A First Python Program](/helloWorld)
- - [Variables in Python](/variables)
+ 1. [A First Python Program](/helloWorld)
+ 1. [Variables in Python](/variables)
 #### Lists
- - [Using Lists](/lists)
- - [Intro to Lists Mini Lecture](http://localhost:8000/lectures/lists)
- - [List tutorial](http://localhost:8888/lab/tree/tutorials/lists/lists.ipynb)
- - [Practice with Lists](/practice/lists)
+ 1. [Using Lists](/lists)
+ 1. [Intro to Lists Mini Lecture](http://localhost:8000/lectures/lists)
+ 1. [List tutorial](http://localhost:8888/lab/tree/tutorials/lists/lists.ipynb)
+ 1. [Practice with Lists](/practice/lists)
 ## Lecture Index
  - [Lecture Index](http://localhost:8000/lectures/)
 
